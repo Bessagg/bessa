@@ -30,7 +30,7 @@
 - An explainable model for predicting porosity in _freeze-casting_.
 
 **Ensemble models to forecast production in an oil reservoir**
-- [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036), presented at the Rio Oil and Gas conference.
+- [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036), presented at the Rio Oil and Gas congress.
 - Here I used python, unittests and optimization algorithms to search for the global minima of a selected loss function.
 
 **Project Leader in Apuama Racing**

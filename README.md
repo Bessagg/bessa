@@ -3,10 +3,11 @@
 #### Technical Skills: Python, SQL, AWS
 
 ## Education
-- M.S., PCMEC | University of Brasilia (_2025_)
+- M.S., PCMEC                 | University of Brasilia (_2025_)
 - B.S, Mechanical Engineering | University of Brasilia (_2022_)
-- IB. | Ashcroft Technology Academy (2012)
-- 
+- IB.                         | Ashcroft Technology Academy (2012)
+
+  
 ## Work Experience
 ** Data Scientist Sr. @ Invisual Technology (_2022 - Present_)
 - AI to predict patient's clinical outcomes

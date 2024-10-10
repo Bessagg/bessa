@@ -4,6 +4,31 @@
 
 ## Education
 - M.S., PCMEC | University of Brasilia (_2025_)
-- B.S, Mechanical Engineering | University of Brasilia (_ 2022_)
+- B.S, Mechanical Engineering | University of Brasilia (_2022_)
 - IB. | Ashcroft Technology Academy (2012)
 - 
+## Work Experience
+** Data Scientist Sr. @ Invisual Technology (_2022 - Present_)
+- AI to predict patient's clinical outcomes
+- XAI, (Shapley) to debug and interpret the model's decision making.
+- Object detection model, YoLo, to help medical equipment inventory tracking.
+- Deployed the AI solutions as API endpoints with FastAPI.
+- Monitored model performance and data shifts.
+
+** Plan and Control Analyst @ Sicoob (_2021 - 2022_)
+- Sized the Call Center operation.
+- Developed dashboards for different managers (PowerBI).
+- Managed datamodels in PowerBI.
+- Web-scrapped additional data (Python).
+- Automated multiple processes (UiPath, Power Automate and Python).
+- Supervised the deployment of RPA projects (UiPath).
+- Mentored new interns.
+
+  
+## Projects
+** M.S thesis
+- An explainable model for predicting porosity in _freeze-casting_.
+
+** Scientific Initiation Project
+- Ensemble models to forecast production in oil reservouirs
+- [Publication] (https://doi.org/10.48072/2525-7579.rog.2022.036)

@@ -32,7 +32,7 @@
 
 **Scientific Initiation Project**
 - Ensemble models to forecast production in oil reservouirs
-- [Publication] (https://doi.org/10.48072/2525-7579.rog.2022.036)
+- [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036)
 
 **Project Leader in Apuama Racing**
 - FSAE team

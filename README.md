@@ -3,9 +3,7 @@
 #### Technical Skills: Python, SQL, AWS
 
 ## Education
-| Degree                         | Institution                       | Year       |
-|---------------------------------|------------------------------------|------------|
-| M.S., PCMEC                    | University of Brasilia             | _2025_     |
+| M.S., PCMEC                     | University of Brasilia             | _2025_     |
 | B.S., Mechanical Engineering    | University of Brasilia             | _2022_     |
 | IB.                             | Ashcroft Technology Academy        | _2012_     |
   

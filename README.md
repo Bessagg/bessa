@@ -12,7 +12,7 @@
 **Data Scientist Sr. @ Invisual Technology (_2022 - Present_)**
 - AI to predict patient's clinical outcomes
 - XAI, (Shapley) to debug and interpret the model's decision making.
-- Object detection model, YoLo, to help medical equipment inventory tracking.
+- Developed an object detection model using YoLo to help medical equipment inventory tracking.
 - Deployed the AI solutions as API endpoints with FastAPI.
 - Monitored model performance and data shifts.
 

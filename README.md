@@ -9,14 +9,14 @@
 
   
 ## Work Experience
-** Data Scientist Sr. @ Invisual Technology (_2022 - Present_)
+**Data Scientist Sr. @ Invisual Technology (_2022 - Present_)**
 - AI to predict patient's clinical outcomes
 - XAI, (Shapley) to debug and interpret the model's decision making.
 - Object detection model, YoLo, to help medical equipment inventory tracking.
 - Deployed the AI solutions as API endpoints with FastAPI.
 - Monitored model performance and data shifts.
 
-** Plan and Control Analyst @ Sicoob (_2021 - 2022_)
+**Plan and Control Analyst @ Sicoob (_2021 - 2022_)**
 - Sized the Call Center operation.
 - Developed dashboards for different managers (PowerBI).
 - Managed datamodels in PowerBI.
@@ -27,14 +27,14 @@
 
   
 ## Projects
-** M.S thesis
+**M.S thesis**
 - An explainable model for predicting porosity in _freeze-casting_.
 
-** Scientific Initiation Project
+**Scientific Initiation Project**
 - Ensemble models to forecast production in oil reservouirs
 - [Publication] (https://doi.org/10.48072/2525-7579.rog.2022.036)
 
-** Project Lear in Apuama Racing
+**Project Leader in Apuama Racing**
 - FSAE team
 - Simulated vehicle dynamics for the suspension design.
 - Program to calculate force distribution for a given tire input force.

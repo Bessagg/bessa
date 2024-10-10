@@ -30,9 +30,9 @@
 **M.S thesis**
 - An explainable model for predicting porosity in _freeze-casting_.
 
-**Scientific Initiation Project**
-- Ensemble models to forecast production in oil reservouirs
-- [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036)
+**Ensemble models to forecast production in oil reservouirs**
+- [Publication](https://doi.org/10.48072/2525-7579.rog.2022.036), presented at the Rio Oil and Gas conference.
+- Here I used python, unittests and optimization algorithms to search for the global minima of a selected loss function.
 
 **Project Leader in Apuama Racing**
 - FSAE team

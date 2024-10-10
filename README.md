@@ -32,3 +32,9 @@
 ** Scientific Initiation Project
 - Ensemble models to forecast production in oil reservouirs
 - [Publication] (https://doi.org/10.48072/2525-7579.rog.2022.036)
+
+** Project Lear in Apuama Racing
+- FSAE team
+- Simulated vehicle dynamics for the suspension design.
+- Program to calculate force distribution for a given tire input force.
+- Program to simulate vehicle behaviour in braking, acelleration and in corner.
